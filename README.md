@@ -207,6 +207,7 @@ Use this checklist as part of your regular store maintenance.
 A strong Shopify SEO strategy combines useful product information, clear site structure, technical reliability, relevant content, and regular performance monitoring.
 
 Start with your most important pages, fix issues that prevent discovery or usability, and measure the results before moving to the next task.
+https://codeelevatorsolutions.com/blog/shopify-theme-customization-when-to-hire-developer/
 
 **Need help improving your Shopify store?**
 
