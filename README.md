@@ -214,6 +214,7 @@ https://codeelevatorsolutions.com/blog/shopify-theme-customization-when-to-hire-
 Explore [Code Elevator Solutions' Shopify development services](https://codeelevatorsolutions.com/shopify-development/) or read our complete guide:
 
 [Shopify SEO Checklist: How to Rank Your Store on Google](https://codeelevatorsolutions.com/blog/shopify-seo-checklist-how-to-rank-your-store-on-google/)
+https://codeelevatorsolutions.com/blog/shopify-checkout-optimization-how-to-reduce-cart-abandonment/
 
 ---
 
