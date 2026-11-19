@@ -218,6 +218,9 @@ https://codeelevatorsolutions.com/blog/shopify-checkout-optimization-how-to-redu
 
 https://codeelevatorsolutions.com/blog/shopify-product-page-optimization-best-practices-for-seo-and-sales/
 
+
+https://codeelevatorsolutions.com/blog/shopify-vs-shopify-plus-which-platform-is-right-for-your-business/
+
 ---
 
 *This checklist is educational and should be adapted to your store's products, market, and technical setup.*
